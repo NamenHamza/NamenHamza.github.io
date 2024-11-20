@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=8.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="wrapper">
+        <header> vad är en moderkort </header>
+        <nav>
+            <a href="cpu.html"></a>
+            <a href="moderkort.html"></a>
+        </nav>
+        <aside>aside</aside>
+        <main>grafikkort =
+            Grafikchipet har alltid varit en del av moderna datorer, men dess roll har utvecklats. Ursprungligen fungerade den främst som en digital-till-analog-omvandlare (DAC), liknande ett ljudkort, som förvandlade digitala data till visuella bilder. Idag tar grafikkortet betydande belastning från processorn, särskilt i uppgifter som 3D-spel, avancerad bildbehandling och högupplöst videouppspelning. 
+
+             </main>
+        <footer> moderkort</footer> 
+    </div>
+</body>
+</html>

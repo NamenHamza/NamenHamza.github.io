@@ -1,0 +1,21 @@
+div{
+height: 500px;
+width: 800;
+background-color: bisque;
+
+
+
+}
+
+#ruta1{
+
+background-color: beige;
+
+}
+
+#ruta2{background-color: aqua;}
+
+#container{
+
+    display: flex;
+}
